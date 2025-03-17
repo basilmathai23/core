@@ -124,7 +124,7 @@ for(i=0;i<array.length;i++){
 console.log(array[i]);
 }
 // for in loop
-var obj= {fname:'Meera',age:34,place:'tvm'}
+var obj= {fname:'sunita',age:34,place:'tvm'}
 for (const i in obj){
   console.log(obj[i]);
 }
